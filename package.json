@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-minify-css": "^0.4.5",
+    "laravel-elixir": "*",
+    "requirejs": "^2.1.16"
+  }
+}

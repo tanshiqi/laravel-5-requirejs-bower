@@ -1,0 +1,5 @@
+define([
+// some deps
+], function(){
+
+});
