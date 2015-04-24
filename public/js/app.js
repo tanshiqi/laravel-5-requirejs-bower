@@ -1,5 +1,5 @@
 define([
-// some deps
+
 ], function(){
 
 });

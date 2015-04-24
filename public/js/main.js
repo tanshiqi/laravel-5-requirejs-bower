@@ -6,7 +6,7 @@ require.config({
 
     },
     paths: {
-        jquery: '../bower/jquery/dist/jquery'
+
     },
     packages: [
 

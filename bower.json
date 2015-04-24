@@ -1,6 +1,8 @@
 {
-    "name": "Project-Name",
-    "dependencies": {
-        "jquery": null
-    }
+  "name": "Project-Name",
+  "dependencies": {
+    "jquery": "2.*",
+    "bootstrap": "3.*",
+    "jquery-ujs": "master"
+  }
 }
