@@ -10,5 +10,6 @@ require.config({
     },
     packages: [
 
-    ]
+    ],
+    urlArgs: "bust=" + (+new Date)
 });
