@@ -12,3 +12,4 @@
 - 样式文件统一在 main.css 中调用
 - 加入 sb-admin-2.css，方便整合后台管理
 - .env: Laravel 环境配置文件，将 `REQ_CSS` 和 `REQ_JS` 放入配置文件，方便切换前端路径
+- 添加 urlArgs，防止 JS 缓存
